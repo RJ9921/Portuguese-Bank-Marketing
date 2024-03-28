@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import pandas as pd 
 from streamlit_option_menu import option_menu
 from PIL import Image
